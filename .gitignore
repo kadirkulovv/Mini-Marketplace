@@ -1,0 +1,15 @@
+venv/
+.venv/
+env/
+.env
+*.sqlite3
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+media/
+staticfiles/
+.idea/
+.vscode/
+roadmap.md
+postman_collection.json
